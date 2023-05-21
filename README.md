@@ -31,13 +31,10 @@ Battleship consists of several stages that add depth and excitement to the gamep
 
 
 ## Setup
-To set up your development environment for the project, follow the instructions below:
+To set up the Mark Management Application, follow these steps:
 
-**Prerequisites:**
-macOS 12.6
+Install macOS 12.6 or a compatible operating system.
 
-IntelliJ IDEA 2022.3.1 (Ultimate Edition)
+Install IntelliJ IDEA 2022.3.1 (Ultimate Edition) as your preferred Integrated Development Environment (IDE).
 
-Kotlin JVM 1.6.21
-
-Java SDK 17.0.5 (Temurin)
+Ensure that you have kotlin.jvm 1.6.21 and Java SDK 17.0.5 (temurin) installed on your system.
