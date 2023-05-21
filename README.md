@@ -35,6 +35,9 @@ To set up your development environment for the project, follow the instructions 
 
 **Prerequisites:**
 macOS 12.6
+
 IntelliJ IDEA 2022.3.1 (Ultimate Edition)
+
 Kotlin JVM 1.6.21
+
 Java SDK 17.0.5 (Temurin)
