@@ -1,7 +1,7 @@
 ## Battleship Game
 Welcome to the exciting world of Battleship, the classic board game of strategic naval warfare!
 
-## Gameplay
+## Introduction
 Battleship is a competitive turn-based game played between a human player and an AI opponent. The objective is to strategically sink the opponent's fleet of ships before your own ships are destroyed. With careful planning and tactical decision-making, you'll engage in an intense battle to outmaneuver your opponent.
 
 ![Alt Text](init.png)
